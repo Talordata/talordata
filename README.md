@@ -93,7 +93,7 @@ Get structured real‑time SERP results from major search engines:
 ## 🚀 Get Started
 
 [**Start Free Trial →**](https://talordata.com/?campaignid=z8wkawyMtHP5akCw&utm_source=dgt&utm_term=eve)
-Sign up to receive **200 MB of free residential proxy traffic** — no credit card required.
+Sign up to receive **1000 Requests of free SERP API** — no credit card required.
 
 GitHub visitors are getting **10% off code: talor90**
 

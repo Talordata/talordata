@@ -20,16 +20,15 @@
 
 ## 👑 What is Talordata?
 
-Talordata is a global **residential proxy network and web data infrastructure platform** built for businesses and developers that need reliable, large-scale internet data collection.
+Talordata provides a **high‑performance SERP API** that delivers real‑time, structured search results from major search engines  directly via API. Designed for SEO teams, AI developers, brand & competitor analysts, and data‑driven workflows, Talordata enables reliable search‑data extraction and analysis with sub‑second responses.
 
 The service provides real IP addresses sourced from genuine home broadband connections, enabling data collection that more closely mimics real user behavior — reducing the risk of blocks or detection. Beyond proxies, Talordata is designed as a full **AI-native data layer**, with native integrations for LLMs, RAG systems, and autonomous agents.
 
-### 🔍 Key Features
-✔ Real‑time structured SERP result extraction  
-✔ Support for multiple search engines (Google, Bing, Yandex, DuckDuckGo)  
-✔ Geo localization and language targeting  
-✔ JSON / HTML output formats  
-✔ Built for production‑grade data workflows
+- **Real‑time structured SERP result** extraction  
+- **Support for multiple search engines** (Google, Bing, Yandex, DuckDuckGo)  
+- **Geo localization and language targeting**  
+- **JSON / HTML output** formats  
+- **Built for production‑grade data workflows**
 - **195+ countries and regions** covered
 - **99.9% uptime** and sub-3s average response time
 - **Real residential IPs** from genuine home broadband connections

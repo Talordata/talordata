@@ -37,12 +37,14 @@ The service provides real IP addresses sourced from genuine home broadband conne
 
 ---
 
-## 🌐 Proxy Solutions
+## 🌐 Talordata Solutions
 
-Enterprise-grade proxy infrastructure for large-scale, compliant web data collection:
+Get structured real‑time SERP results from major search engines:
 
-| Proxy Type | Description | Best For| Price |
+| Product Type | Description | Best For| Price |
 |---|---|---|---|
+| **SERP API** | Get structured results from Google, Bing, Yandex, and DuckDuckGo through one API, with fast, reliable responses. | Ideal for SEO, AI workflows, market insights & web‑data apps. | 1000 Free Trials,
+30,000 Requests-$27,100,000 Requests-$70,500,000 Requests-$300 | 
 | **Residential Proxies** | Real home broadband IPs across 195+ countries | High-trust platforms, geo-sensitive workloads | 2GB—$1.98,10GB—$8.5,300GB—$210 | 
 | **Static ISP Proxies** | Residential-class IPs with stable, long-lived sessions | Login flows, long sessions | $3/ip | 
 

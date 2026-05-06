@@ -1,10 +1,10 @@
 
 <h2 align="center">
-<a href="https://netnut.io/github-promotion-residential-proxy">Talordata.com </a> - Reliable Residential Proxies
+<a href="https://netnut.io/github-promotion-residential-proxy">Talordata.com </a> - Multi-Engine SERP API
 </h2>
 
 <p align="center">
-<strong>195+ regions 80M+ residential IPs, rotating or sticky sessions, unlimited concurrent and bandwidth, suitable for global data collection, brand protection, LLM training, and more.</strong>
+<strong>Real‑time multi‑engine SERP API for SEO, AI workflows, and search‑data applications. High‑accuracy structured search results from Google, Bing, Yandex, DuckDuckGo. </strong>
 </p>
 
 

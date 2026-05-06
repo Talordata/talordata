@@ -8,7 +8,7 @@
 </p>
 
 
-[🌐 Website](https://talordata.com/?campaignid=z8wkawyMtHP5akCw&utm_source=dgt&utm_term=eve)· [📚 Documentation](https://doc.talordata.com) · [📧 Support](mailto:support@talordata.com)
+[🌐 Website](https://talordata.com/?campaignid=z8wkawyMtHP5akCw&utm_source=dgt&utm_term=eve)· [📚 Documentation](https://docs.talordata.com/) · [📧 Support](mailto:support@talordata.com)
 
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-success)
 ![Coverage](https://img.shields.io/badge/Coverage-195%2B_Countries-blue)
